@@ -9,3 +9,8 @@ h1{
     margin: 0;
     padding: 4em 0;
 }
+main{
+    max-width: 850px;
+    background-color: cornflowerblue;
+    margin: auto;
+}
